@@ -1,0 +1,53 @@
+{
+  "name": "front-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@fontsource/roboto": "^4.5.3",
+    "@material-ui/styled-engine-sc": "^5.0.0-beta.5",
+    "@material-ui/system": "^5.0.0-beta.5",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/lab": "^5.0.0-alpha.97",
+    "@mui/material": "^5.5.1",
+    "@mui/styled-engine-sc": "^5.4.2",
+    "@mui/x-data-grid": "^5.7.0",
+    "@mui/x-date-pickers": "^5.0.0-beta.7",
+    "@types/react-currency-format": "^1.0.0",
+    "@types/uuid": "^8.3.4",
+    "axios": "^0.26.1",
+    "compressorjs": "^1.1.1",
+    "crypto-js": "^4.1.1",
+    "date-fns": "^2.29.2",
+    "formik": "^2.2.9",
+    "moment": "^2.29.4",
+    "next": "12.1.0",
+    "nookies": "^2.5.2",
+    "react": "17.0.2",
+    "react-cropper": "^2.1.8",
+    "react-currency-format": "^1.1.0",
+    "react-dom": "17.0.2",
+    "react-imask": "^6.4.2",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router-dom": "6",
+    "react-toastify": "^8.2.0",
+    "styled-components": "^5.3.5",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/node": "17.0.21",
+    "@types/react": "17.0.41",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "typescript": "4.6.2"
+  }
+}
